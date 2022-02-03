@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import './Calculator.css'
 
-import Button from "../components/button/button";
-import Display from "../components/display/display";
+import Button from "../components/button/Button";
+import Display from "../components/display/Display";
 
 
 const initialState = {
