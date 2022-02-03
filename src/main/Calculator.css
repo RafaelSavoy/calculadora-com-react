@@ -1,0 +1,25 @@
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50%;
+	height: 100vh;
+	margin: 0 auto;
+
+}
+
+.calculator{
+	height: 350px;
+	width: 100%;
+	border-radius: 5px;
+	overflow: hidden;
+	display: grid;
+	grid-template-columns: repeat(4,25%);
+	grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+}
+
+@media (max-width: 800px){
+	.container{
+		width: 80%;
+	}
+}
