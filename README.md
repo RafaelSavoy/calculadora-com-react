@@ -4,4 +4,4 @@
 
 ![alt tag](download.png)
   
-[<h1>Try it here</h1>](https://rafaelsavoy-react-calculator.netlify.app/)
+[<h1>Try it here</h1>](https://rafaelsavoy.github.io/react-calculator/)
