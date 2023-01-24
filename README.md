@@ -1,6 +1,6 @@
 <h1>Calculator With React</h1>
   
-<p>i make this project in my course of web developer, i used ReactJS and CSS
+<p>Projeto de calculadora usando React e css, feito em um curso da Udemy.
 
 ![alt tag](download.png)
   
