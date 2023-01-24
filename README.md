@@ -1,4 +1,4 @@
-<h1>Calculator With React</h1>
+<h1>Calculadora</h1>
   
 <p>Projeto de calculadora usando React e css, feito em um curso da Udemy.
 
