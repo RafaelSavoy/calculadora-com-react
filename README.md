@@ -4,4 +4,4 @@
 
 ![alt tag](download.png)
   
-[<p>Link</p>](https://rafaelsavoy.github.io/react-calculator/)
+[<h1>Link</h1>](https://rafaelsavoy.github.io/react-calculator/)
